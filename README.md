@@ -24,7 +24,7 @@
 
 
 ### Presentation
- Please refer to this [presentation]([https://drive.google.com/drive/folders/1mVUooeR8l1ibaOjVi5DiKctl_RjvRWwD](https://docs.google.com/presentation/d/17Ht7Z46gF4iBuZEGmhpLKJ5qKuJ02MC2/edit?usp=sharing&ouid=117882488979386791397&rtpof=true&sd=true)) and [video](https://drive.google.com/file/d/150QqkiR9GxCrtvydnBwbR-_O4KQnfjAV/view?usp=share_link) for detailed understanding.
+ Please refer to this [presentation](https://docs.google.com/presentation/d/17Ht7Z46gF4iBuZEGmhpLKJ5qKuJ02MC2/edit?usp=sharing&ouid=117882488979386791397&rtpof=true&sd=true) and [video](https://drive.google.com/file/d/150QqkiR9GxCrtvydnBwbR-_O4KQnfjAV/view?usp=share_link) for detailed understanding.
 
 ### Contributions
 
